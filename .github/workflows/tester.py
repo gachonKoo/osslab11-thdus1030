@@ -5,6 +5,6 @@ c = 5
 print('c ='. c)
 
 r=10
-area = 100π
+area = 314.1592653589793
 print('area =', area)
 
